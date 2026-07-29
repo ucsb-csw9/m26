@@ -10,8 +10,7 @@ ready: true
 
 Richert Wang
 
-* Tuesdays 1pm - 2pm (lecture zoom link)
-* Thursdays 3:30pm - 4:30pm (lecture zoom link)
+* Tuesdays / Thursdays 1pm - 1:50pm (lecture zoom link)
 
 # Teaching Assistants
 

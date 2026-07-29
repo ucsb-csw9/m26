@@ -73,13 +73,13 @@ Your course grade will be determined as follows:
 | Grade Item                                    | Percentage of Final Grade |
 |-----------------------------------------------|---------------------------|
 | Academic Integrity Contract (Tuesday 8/11)    | 1 %                       |
-| Midterm (Thursday 8/20), 2pm - 3:20pm         | 25 %                      |
-| Final (Thursday 9/10), 2pm - 3:20pm           | 30 %                      |
+| Midterm (Thursday 8/20), 2pm - 3:20pm         | 20 %                      |
+| Final (Thursday 9/10), 2pm - 3:20pm           | 20 %                      |
 | Homeworks                                     | 9 %                       |
 | Labs                                          | 20 %                      |
-| iClicker Participation                        | 5 %                       |
-| Lab Section Presentations                     | 5 %                       |
-| Lab Section Peer Feedback                     | 5 %                       |
+| iClicker                                      | 10 %                       |
+| Lab Section Presentations                     | 10 %                       |
+| Lab Section Peer Feedback                     | 10 %                       |
 
 * In general, homeworks will be assigned periodically throughout the quarter and should be completed on Gradescope by the due date. Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the exams.
 
@@ -87,13 +87,15 @@ Your course grade will be determined as follows:
   * All labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have a **20%** deduction from your grade. We will only consider your most recent submission.
   * **I highly encourage students not to wait until the last-minute to complete lab assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
 
-* We will be using iClicker in this course during lectures to check our understanding of the material covered. You must attend the lectures to participate, and can expect to answer a few poll questions in each lecture. Participating in these polls counts for 5% of your grade.
+* We will be using iClicker in this course during lectures to check our understanding of the material covered. You must attend the lectures to participate, and can expect to answer a few poll questions in each lecture.  
+  * **5% of your grade is based simply on participating in these polls** regardless of answering the questions correctly or not.
+  * **5% of your grade is based on the correctness of the iClicker questions**. I do this to ensure students are actively engaged in lecture material, and are keeping current with the concepts.
 
-* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student presentations and peer presentation feedback are each worth 5% of the total grade.
+* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA and/or myself will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student presentations and peer presentation feedback are each worth 5% of the total grade.
 
 # Late work
 
-I will consider late submissions / accommodations <strong>only</strong> for medical or family emergencies **where formal documentation can be provided**. This does not include overwhelming workload from other courses, scheduling conflicts, technical difficulties, or vacation plans. The course policy of dropping two lowest homeworks and lab assignments' 24-hour late window is in place to accommodate any unfortunate situation where no form of documentation can be provided.
+I will consider late submissions / accommodations <strong>only</strong> for medical or family emergencies **where formal documentation can be provided**. This does not include overwhelming workload from other courses, scheduling conflicts, technical difficulties, or vacation plans. The course policy of dropping two lowest homeworks, and lab assignments' 24-hour late window is in place to accommodate any unfortunate situation where no form of documentation can be provided.
 
 Accommodations for disabilities
 -------------------------------
