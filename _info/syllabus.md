@@ -9,7 +9,7 @@ Basic Facts
 
 * **Course Web Site**: <https://ucsb-csw9.github.io/m26/>
 * **Instructor**: Richert Wang
-   * Please use [Piazza](https://piazza.com/ucsb/summer2026/cmpscw9) for course related communication.
+   * Please use [Piazza](https://piazza.com/ucsb/summer2026/cmpscw9sessionb) for course related communication.
 * **Lecture**: Tu, W, Th 2pm-3:20pm
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **ULAs**: {{site.mentors_list}} (contact via Piazza)
