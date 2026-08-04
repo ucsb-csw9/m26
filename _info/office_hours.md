@@ -15,8 +15,8 @@ Richert Wang
 # Teaching Assistants
 
 Peter Boyland
-* Fridays 1pm - 3pm (https://ucsb.zoom.us/j/81157796764)[https://ucsb.zoom.us/j/81157796764]
+* Fridays 1pm - 3pm [https://ucsb.zoom.us/j/81157796764](https://ucsb.zoom.us/j/81157796764)
 
 Adyant Kamdar
-* Tuesdays 9am - 11am (https://ucsb.zoom.us/j/81157796764)[https://ucsb.zoom.us/j/81157796764]
+* Tuesdays 9am - 11am [https://ucsb.zoom.us/j/81157796764](https://ucsb.zoom.us/j/81157796764)
 
