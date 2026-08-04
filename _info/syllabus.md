@@ -91,7 +91,7 @@ Your course grade will be determined as follows:
   * **5% of your grade is based simply on participating in these polls** regardless of answering the questions correctly or not.
   * **5% of your grade is based on the correctness of the iClicker questions**. I do this to ensure students are actively engaged in lecture material, and are keeping current with the concepts.
 
-* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA and/or myself will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student presentations and peer presentation feedback are each worth 5% of the total grade.
+* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA and/or myself will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student presentations and peer presentation feedback are each worth 10% of the total grade.
 
 # Late work
 
